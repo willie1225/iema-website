@@ -22,7 +22,7 @@ export default function About() {
     e.preventDefault();
 
     const serviceId = "service_sbm9mb6";
-    const templateId = "template_os1yh0p";
+    const templateId = "template_yw1vz4b";
     const publicKey = "NAblGRT4QgIAilmbZ";
 
     const missingKeys =
